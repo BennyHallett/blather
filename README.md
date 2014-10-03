@@ -1,5 +1,7 @@
 # Blather
 
+Chat app in Elixir
+
 To start your new Phoenix application you have to:
 
 1. Install dependencies with `mix deps.get`
